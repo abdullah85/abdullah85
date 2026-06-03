@@ -20,14 +20,14 @@
 *Replace these with your own tech stack! Find more badges at [shields.io](https://shields.io) or [this repository](https://github.com/Ileriayo/markdown-badges)* -->
 
 ### Connect with me
-[LinkedIn](https://linkedin.com/in/abdullah318) • [My Scrimba Profile](https://scrimba.com/@abdullah85) • [My Favorite Scrimba Course - Full Stack Development](https://scrimba.com/fullstack-path-c0fullstack?via=u0knhm) 
+[LinkedIn](https://linkedin.com/in/abdullah318) • [My Scrimba Profile](https://scrimba.com/@abdullah85) • [My Favorite Scrimba Course](https://scrimba.com/fullstack-path-c0fullstack?via=u0knhm) 
 
 <!--
 • [I Built This on Scrimba](#) • [Portfolio](#)
-**Don't forget to add your Scrimbassador link to the end of the URLs above!** (e.g., `https://scrimba.com/learn-javascript-c0v?via=[YOUR-AFFILIATE-LINK]`) -->
+**Don't forget to add your Scrimbassador link to the end of the URLs above!** (e.g., `https://scrimba.com/learn-javascript-c0v?via=[YOUR-AFFILIATE-LINK]`) 
 
 [![20% Discount off Scrimba](https://i.ibb.co/HD3x73NB/scrimbassadors-cta.png)](https://scrimba.com/scrimbassadors)
-
+-->
 ---
 
 ## 📊 GitHub Stats
