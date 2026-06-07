@@ -6,7 +6,7 @@
 
 - 🧩 **Tech I'm using:** Current - Javascript, HTML/CSS, Others - Python, Ruby On Rails, PHP (Laravel), SQL and so on.
 
-- 🚀 **Fun fact:** A generalist interested in many things, good at some, mastered a few and open to new challenges.
+- 🚀 **Fun fact:** A generalist interested in many things, good at many, mastered a few and open to new challenges.
 
 ### 🛠️ My Toolkit
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
