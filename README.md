@@ -27,10 +27,6 @@
 
 [LinkedIn](https://linkedin.com/in/abdullah318) • [My Scrimba Profile](https://scrimba.com/@abdullah85) • [My Favorite Scrimba Course](https://scrimba.com/fullstack-path-c0fullstack?via=u0knhm) 
 
-<p align="left">
-  <img src="https://api.boot.dev/v1/users/public/a42dccc5-c6ce-4e9c-a909-0f69a5b152bc/thumbnail" >
-</p>
-
 Visit [boot.dev/u/abdullah85](https://www.boot.dev/u/abdullah85), for latest updates on my boot.dev progress.
 
 <!--
