@@ -63,7 +63,7 @@ A generalist engineer who enjoys working across the stack—from product ideas t
 
 | Project | Description | Stack | Status |
 |---|---|---|---|
-| [ledger-api](https://github.com/abdullah85/ledger-api) | Double-entry bookkeeping REST API with LLM-assisted transaction categorisation | Python · FastAPI · PostgreSQL · Docker | 🔨 In progress |
+| [repo](https://github.com/abdullah85/repo-name) | Describe the repo to be decided| Python · FastAPI · PostgreSQL · Docker | 🔨 In progress |
 
 ### Planned (see Issues)
 
