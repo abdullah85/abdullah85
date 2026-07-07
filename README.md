@@ -63,7 +63,8 @@ A generalist engineer who enjoys working across the stack—from product ideas t
 
 | Project | Description | Stack | Last Release | Issues |
 |---|---|---|---|---|
-| [metallictrends](https://github.com/abdullah85/metallictrends) | Analyze Trends in spot prices for precious metals, industrial metals and currency conversion | Python · SQLite · Requests (planned: FastAPI · PostgreSQL · Docker) | [v0.1.0](https://github.com/abdullah85/metallictrends/releases/tag/v0.1.0) — Initial release: resumable ingestion pipeline | [✅ 8 closed](https://github.com/abdullah85/metallictrends/issues?q=is%3Aissue+is%3Aclosed) · [🔲 0 open](https://github.com/abdullah85/metallictrends/issues?q=is%3Aissue+is%3Aopen) |
+| [metallictrends](https://github.com/abdullah85/metallictrends) | Analyze Trends in spot prices for precious metals, industrial metals and currency conversion | Python · SQLite · Requests (planned: FastAPI · PostgreSQL · Docker) | [v0.1.0](https://github.com/abdullah85/metallictrends/releases/tag/v0.1.0) — Initial release: resumable ingestion pipeline | [✅ closed](https://github.com/abdullah85/metallictrends/issues?q=is%3Aissue+is%3Aclosed) · [🔲 open](https://github.com/abdullah85/metallictrends/issues?q=is%3Aissue+is%3Aopen) |
+| [logbook](https://github.com/abdullah85/logbook) | A concise record of events, insights and observations in my technical journey. | Topics - Python · Pydantic |  | [✅ closed](https://github.com/abdullah85/logbook/issues?q=is%3Aissue+is%3Aclosed) · [🔲 open](https://github.com/abdullah85/logbook/issues?q=is%3Aissue+is%3Aopen) |
 
 > Issues track the work in progress. Contributions and feedback welcome.
 
@@ -73,8 +74,8 @@ A generalist engineer who enjoys working across the stack—from product ideas t
 
 | Project | Description | Stack | Last Release | Issues |
 |---|---|---|---|---|
-| [ScrimList](https://github.com/abdullah85/scrimList) | Prefix numbers for lessons, tutorials or paths in Scrimba. | HTML · CSS · JavaScript · Chrome Extension API | [v1.1.0.0](https://github.com/abdullah85/scrimList/releases/tag/v1.1.0.0) — Consistent copy-element positioning across course types | [✅ 5 closed](https://github.com/abdullah85/scrimList/issues?q=is%3Aissue+is%3Aclosed) · [🔲 1 open](https://github.com/abdullah85/scrimList/issues?q=is%3Aissue+is%3Aopen) |
-| [Keepmarks](https://github.com/abdullah85/keepmarks) | A Custom Bookmark Organizer for Google Chrome | HTML · CSS · JavaScript · Chrome Extension API | [v0.1.0.0](https://github.com/abdullah85/keepmarks/releases/tag/v0.1.0.0) — Reorganizable bookmark folders, forked from HNTP | [✅ 2 closed](https://github.com/abdullah85/keepmarks/issues?q=is%3Aissue+is%3Aclosed) · [🔲 1 open](https://github.com/abdullah85/keepmarks/issues?q=is%3Aissue+is%3Aopen) |
+| [ScrimList](https://github.com/abdullah85/scrimList) | Prefix numbers for lessons, tutorials or paths in Scrimba. | HTML · CSS · JavaScript · Chrome Extension API | [v1.1.0.0](https://github.com/abdullah85/scrimList/releases/tag/v1.1.0.0) — Consistent copy-element positioning across course types | [✅ closed](https://github.com/abdullah85/scrimList/issues?q=is%3Aissue+is%3Aclosed) · [🔲 open](https://github.com/abdullah85/scrimList/issues?q=is%3Aissue+is%3Aopen) |
+| [Keepmarks](https://github.com/abdullah85/keepmarks) | A Custom Bookmark Organizer for Google Chrome | HTML · CSS · JavaScript · Chrome Extension API | [v0.1.0.0](https://github.com/abdullah85/keepmarks/releases/tag/v0.1.0.0) — Reorganizable bookmark folders, forked from HNTP | [✅ closed](https://github.com/abdullah85/keepmarks/issues?q=is%3Aissue+is%3Aclosed) · [🔲 open](https://github.com/abdullah85/keepmarks/issues?q=is%3Aissue+is%3Aopen) |
 
 ---
 
