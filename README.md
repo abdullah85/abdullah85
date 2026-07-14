@@ -63,8 +63,8 @@ A generalist engineer who enjoys working across the stack—from product ideas t
 
 | Project | Description | Stack | Last Release | Issues |
 |---|---|---|---|---|
-| [metallictrends](https://github.com/abdullah85/metallictrends) | Analyze Trends in spot prices for precious metals, industrial metals and currency conversion | Python · SQLite · Requests (planned: FastAPI · PostgreSQL · Docker) | [v0.1.0](https://github.com/abdullah85/metallictrends/releases/tag/v0.1.0) — Initial release: resumable ingestion pipeline | [✅ closed](https://github.com/abdullah85/metallictrends/issues?q=is%3Aissue+is%3Aclosed) · [🔲 open](https://github.com/abdullah85/metallictrends/issues?q=is%3Aissue+is%3Aopen) |
-| [logbook](https://github.com/abdullah85/logbook) | A concise record of events, insights and observations in my technical journey. | Topics - Python · Pydantic · FastAPI |  | <!-- [✅ closed](https://github.com/abdullah85/logbook/issues?q=is%3Aissue+is%3Aclosed) · [🔲 open](https://github.com/abdullah85/logbook/issues?q=is%3Aissue+is%3Aopen) --> |
+| [metallictrends](https://github.com/abdullah85/metallictrends) | Analyze Trends in spot prices for precious metals, industrial metals and currency conversion | Python · SQLite · Requests · FastAPI (planned: PostgreSQL · Docker) | [v0.2.0](https://github.com/abdullah85/metallictrends/releases/tag/v0.2.0) — Ingestion pipeline, Frontend built with Charts | [✅ closed](https://github.com/abdullah85/metallictrends/issues?q=is%3Aissue+is%3Aclosed) · [🔲 open](https://github.com/abdullah85/metallictrends/issues?q=is%3Aissue+is%3Aopen) |
+| [logbook](https://github.com/abdullah85/logbook) | A concise record of events, insights and observations in my technical journey. | Python · Pydantic · FastAPI |  | <!-- [✅ closed](https://github.com/abdullah85/logbook/issues?q=is%3Aissue+is%3Aclosed) · [🔲 open](https://github.com/abdullah85/logbook/issues?q=is%3Aissue+is%3Aopen) --> |
 
 > Issues track the work in progress. Contributions and feedback welcome.
 
